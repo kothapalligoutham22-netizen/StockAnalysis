@@ -1,4 +1,4 @@
-# 📈 Stock Price Forecasting Web App
+#  Stock Price Forecasting Web App
 
 Real‑time Streamlit application that predicts the **next 30 days of closing prices** for any publicly‑listed stock.  
 The app swaps slow ARIMA models for a **lightweight Linear Regression pipeline**, cutting forecast latency by **95 %** and delivering results in **< 1 second**.
@@ -7,7 +7,7 @@ The app swaps slow ARIMA models for a **lightweight Linear Regression pipeline
 
 ---
 
-## 🚀 Features
+##  Features
 - **Instant forecasts** – < 1 s end‑to‑end inference on 180 days of data  
 - **Dynamic ticker input** – supports any Yahoo Finance symbol (e.g., `AAPL`, `TSLA`)  
 - **Interactive visuals** – Plotly candlesticks, moving averages, and forecast overlay  
@@ -16,7 +16,7 @@ The app swaps slow ARIMA models for a **lightweight Linear Regression pipeline
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 |   |   |
 |---|---|
 | **Backend** | Python 3.11, yFinance, pandas, NumPy, scikit‑learn |
@@ -26,7 +26,7 @@ The app swaps slow ARIMA models for a **lightweight Linear Regression pipeline
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ```bash
 # 1. Clone the repo
